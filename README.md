@@ -2,7 +2,7 @@
 - Tenho 27 anos e moro em Joinville - SC :sparkling_heart:
 - Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas 👨‍🎓
 - Faço o curso Desenvolvimento Web Full Stack - com 510 aulas - do  Programador Br :computer:  
-- Atualmente meu foco é o desenvolvimento web 🎯:
+- Atualmente meu foco é o desenvolvimento web 🎯
 
 <div style="display: flex;">
 <div>
